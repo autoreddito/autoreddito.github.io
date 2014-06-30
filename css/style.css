@@ -1039,3 +1039,8 @@
 .fa-2 {
 font-size: 2em;
 }
+.autosize {
+    width: 100%;
+    max-width: 256px;
+    height: auto;
+}
